@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/not-your-average-pong/static/css/main.52ee488f.css",
-    "main.js": "/not-your-average-pong/static/js/main.db621a1b.js",
+    "main.js": "/not-your-average-pong/static/js/main.04957f01.js",
     "index.html": "/not-your-average-pong/index.html",
     "main.52ee488f.css.map": "/not-your-average-pong/static/css/main.52ee488f.css.map",
-    "main.db621a1b.js.map": "/not-your-average-pong/static/js/main.db621a1b.js.map"
+    "main.04957f01.js.map": "/not-your-average-pong/static/js/main.04957f01.js.map"
   },
   "entrypoints": [
     "static/css/main.52ee488f.css",
-    "static/js/main.db621a1b.js"
+    "static/js/main.04957f01.js"
   ]
 }
